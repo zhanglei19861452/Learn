@@ -12,3 +12,8 @@ This is for learn using git too!!!
 ## menu4
 
 Learn push public key
+
+## menu5 
+
+2019-12-30测试是否成功
+
